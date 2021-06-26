@@ -1,0 +1,6 @@
+set tabsize 2
+set tabstospaces
+set softwrap
+set nonewlines
+set mouse
+set linenumbers
